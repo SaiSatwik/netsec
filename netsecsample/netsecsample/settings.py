@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'deviceip',
         'USER': 'ashikkuppili@netsecdb1',
-        'PASSWORD': 'venkata123!',
+        'PASSWORD': '--Update-Password--',
         'HOST': 'netsecdb1.postgres.database.azure.com',
         'PORT': '5432',
     }
